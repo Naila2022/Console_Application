@@ -1,0 +1,5 @@
+/Users/nailebunyatova/Projects/Console_Application/Console_Application/obj/Debug/netcoreapp3.1/Console_Application.csproj.AssemblyReference.cache
+/Users/nailebunyatova/Projects/Console_Application/Console_Application/obj/Debug/netcoreapp3.1/Console_Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nailebunyatova/Projects/Console_Application/Console_Application/obj/Debug/netcoreapp3.1/Console_Application.AssemblyInfoInputs.cache
+/Users/nailebunyatova/Projects/Console_Application/Console_Application/obj/Debug/netcoreapp3.1/Console_Application.AssemblyInfo.cs
+/Users/nailebunyatova/Projects/Console_Application/Console_Application/obj/Debug/netcoreapp3.1/Console_Application.csproj.CoreCompileInputs.cache

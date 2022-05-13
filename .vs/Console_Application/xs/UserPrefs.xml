@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6C71487E-3448-4343-BD50-0F738AA1A096}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console_Application/Student.cs">
+    <Files>
+      <File FileName="Console_Application/Program.cs" Line="11" Column="1" />
+      <File FileName="Console_Application/Student.cs" Line="25" Column="1" />
+      <File FileName="Console_Application/Group.cs" Line="12" Column="1" />
+      <File FileName="Console_Application/Enum/Categories.cs" Line="4" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Console_Application" expanded="True">
+            <Node name="Console_Application" expanded="True">
+              <Node name="Enum" expanded="True" />
+              <Node name="Student.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Console__Application PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
