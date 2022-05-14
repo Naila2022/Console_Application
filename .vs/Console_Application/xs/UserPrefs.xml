@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{6C71487E-3448-4343-BD50-0F738AA1A096}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Console_Application/Group.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console_Application/Student.cs">
     <Files>
       <File FileName="Console_Application/Program.cs" Line="14" Column="1" />
-      <File FileName="Console_Application/Student.cs" Line="26" Column="34" />
+      <File FileName="Console_Application/Student.cs" Line="1" Column="1" />
       <File FileName="Console_Application/Group.cs" Line="19" Column="33" />
-      <File FileName="Console_Application/Enum/Categories.cs" Line="1" Column="1" />
+      <File FileName="Console_Application/Enum/Categories.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Console_Application" expanded="True">
+          <Node name="Console_Application" expanded="True" selected="True">
             <Node name="Console_Application" expanded="True">
               <Node name="Enum" expanded="True" />
-              <Node name="Group.cs" selected="True" />
             </Node>
           </Node>
         </State>
