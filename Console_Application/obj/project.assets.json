@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nailebunyatova/Projects/Console_Application/Console_Application/Console_Application.csproj",
+      "projectUniqueName": "/Users/nailebunyatova/Desktop/Console_Application/Console_Application/Console_Application.csproj",
       "projectName": "Console_Application",
-      "projectPath": "/Users/nailebunyatova/Projects/Console_Application/Console_Application/Console_Application.csproj",
+      "projectPath": "/Users/nailebunyatova/Desktop/Console_Application/Console_Application/Console_Application.csproj",
       "packagesPath": "/Users/nailebunyatova/.nuget/packages/",
-      "outputPath": "/Users/nailebunyatova/Projects/Console_Application/Console_Application/obj/",
+      "outputPath": "/Users/nailebunyatova/Desktop/Console_Application/Console_Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nailebunyatova/.config/NuGet/NuGet.Config"

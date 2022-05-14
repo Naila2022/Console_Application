@@ -1,25 +1,36 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace Console_Application
 {
     public class Student
     {
-        string _id;
+        public int Id;
         public string Name;
         public string Surname;
-        public byte GroupNo;
-        public bool Type;
-        public object ID {
-            get { return _id; }
-            set {; } }
+        public string GroupNo;
+        public bool Guaranty;
 
-        public Student(string id, string name, string surname, byte groupNo, bool type)
+        List<Student> StudentList = new List<Student>();
+
+        public Student(int id, string name, string surname, string groupNo, bool guaranty)
         {
-            ID = id;
+            Id = id;
             Name = name;
             Surname = surname;
             GroupNo = groupNo;
-            Type = type;
+            Guaranty = guaranty;
 
+        }
+
+        public void StudentInfo()
+        {
+            foreach (Student student in StudentList)
+            {
+                Console.WriteLine($"Name: {student.Name} \n  Surname: {student.Surname} \n Id: {student.GroupNo} \n Guaranty: {student.Guaranty}");
+            }
+                
+            
         }
 
 
